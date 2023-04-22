@@ -4,17 +4,16 @@
 
 
 ### About Me!👨‍🚀  
-### <div align="center">I'm Yogesh, a self taught full-stack MERN developer, 👨‍💻 Currently pursuing a degree in Computer Science. </div>  
+### <div align="center">I'm Yogesh, a self taught full-stack developer, 👨‍💻 Currently pursuing a degree in Computer Science. </div>  
   
 
-- 🔭 I’m currently doing Competitive programming and making side projects on (https://github.com/YogeshT22?tab=repositories)  
+- 🔭 I’m currently doing Competitive programming and making side projects on <br> (https://github.com/YogeshT22?tab=repositories) <br/>
   
 
-- 🌱 I’m currently learning React and also getting good grip on theoretical computer science concepts (for eg: DSA, Compiler Design etc).  
+- 🌱 I’m currently learning React and learning more about computer science concepts (for eg: DSA, Compiler Design etc), mathematics, problem solving!  
   
 
-- 💼 Mostly working with Full stack MERN website also C++, Java and Python Projects <br> using libraries like ( Qt, Boost, OpenGL, Tkinter etc ). <br/>  
-  
+- 💼 Mostly working with making Full stack MERN websites also doing C++, Java and Python Projects <br> using libraries like ( Qt, Boost, OpenGL, Tkinter etc ). <br/>  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
