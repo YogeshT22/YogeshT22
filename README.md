@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif?cid=ecf05e47k6353q1rkhl1ol3g8r2mijoacxjrxiurb94td9be&rid=giphy.gif&ct=s" align="center" style="width: 50%" />  
+<img src="https://media.tenor.com/M2KYza3mmcoAAAAC/hello-world.gif" align="right" style="width: 50%" />  
   
 
 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning React and also getting good grip on theoretical computer science concepts (for eg: DSA, Compiler Design etc).  
   
 
-- 💼 Mostly working with Full stack MERN website also C++, Java and Python Projects using libraries like ( Qt, Boost, OpenGL, Tkinter etc ).  
+- 💼 Mostly working with Full stack MERN website also C++, Java and Python Projects <br> using libraries like ( Qt, Boost, OpenGL, Tkinter etc ). <br/>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
