@@ -111,18 +111,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YogeshT22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshT22&show_icons=true&theme=transparent)
+<br>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshT22&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-<br/>  
-
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=YogeshT22&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
+<div align="left">
             <a href="https://www.buymeacoffee.com/yogesht22" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
