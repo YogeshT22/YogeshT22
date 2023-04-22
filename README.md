@@ -4,11 +4,11 @@
 
 
 ### About Me!👨‍🚀  
-### <div align="center">I'm Yogesh, a self taught full-stack developer, 👨‍💻 Currently pursuing a degree in Computer Science. </div>  
-  
+----
+### <div align="left">I'm Yogesh, <br> --> A self taught developer, <br> --> pursuing a degree in Computer Science. </div>  
+----
 
 - 🔭 I’m currently doing Competitive programming and making side projects on <br> (https://github.com/YogeshT22?tab=repositories) <br/>
-  
 
 - 🌱 I’m currently learning React and learning more about computer science concepts (for eg: DSA, Compiler Design etc), mathematics, problem solving!  
   
