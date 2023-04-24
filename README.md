@@ -17,8 +17,6 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I can play Violin --> ( "I bet it's way harder than learning haskell" ) 🥴  
   
 
 <br/>  
