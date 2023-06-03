@@ -107,11 +107,6 @@
 
 <br/>  
 
-
-## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshT22&show_icons=true&theme=transparent)
-<br>
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshT22&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
