@@ -8,24 +8,14 @@
 ### <div align="left">I'm Yogesh, <br> --> A self taught developer, <br> --> pursuing a degree in Computer Science. </div>  
 ----
 
-- 🔭 I’m currently doing Competitive programming and making side projects on <br> (https://github.com/YogeshT22?tab=repositories) <br/>
+- 🔭 I’m currently doing Competitive programming and making side projects <br> (https://github.com/YogeshT22?tab=repositories) <br/>
 
-- 🌱 I’m currently learning React and learning more about computer science concepts (for eg: DSA, Compiler Design etc), mathematics, problem solving!  
+- 🌱 I’m now learning React and learning more about computer science concepts (for eg: DSA, Compiler Design etc), mathematics, problem solving!  
   
-
-- 💼 Mostly working with making Full stack MERN websites also doing C++, Java and Python Projects <br> using libraries like ( Qt, Boost, OpenGL, Tkinter etc ). <br/>  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-  
-
-<br/>  
-
+- 💼 I Mostly work with making Full stack MERN webapps using trending technology like AI/ML, Chatgpt, Chatbots and etc <br> I also program in Embedded C++(EC++), Java(spring) and Python(Django) projects as well! using various modern libraries and frameworks mentioned below seperately.  <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -44,8 +34,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -63,8 +51,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Proficient In  
 <div align="center">  
@@ -92,7 +78,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <a href="https://github.com/YogeshT22" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -103,14 +88,12 @@
 <a href="https://linkedin.com/in/yogesht22" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 <br/>  
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=YogeshT22&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="left">
