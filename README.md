@@ -106,10 +106,6 @@
   
 
 <br/>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshT22&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=YogeshT22&&style=flat-square" align="center" />
 </div>  
