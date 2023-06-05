@@ -1,11 +1,9 @@
 <img src="https://media.giphy.com/media/6ve6Nic1v8Ao61VCTU/giphy.gif" align="right" style="width: 50%" />  
   
-
-
-
-### About Me!👨‍🚀  
 ----
-### <div align="left">I'm Yogesh, <br> A self taught developer, <br> Pursuing a degree in Computer Science. </div>  
+### <div align="center"><b>About Me!👨‍🚀</b> </div> 
+
+### <div align="center">I'm Yogesh, <br> A self taught developer, <br> pursuing a degree in Computer Science. </div>  
 ----
 
 - 🔭 I’m currently doing Competitive programming and making full stack projects & also doing contribution to open source projects as well. <br> (https://github.com/YogeshT22?tab=repositories) <br/>
