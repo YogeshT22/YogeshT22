@@ -8,11 +8,10 @@
 ### <div align="left">I'm Yogesh, <br> A self taught developer, <br> Pursuing a degree in Computer Science. </div>  
 ----
 
-- 🔭 I’m currently doing Competitive programming and making side projects <br> (https://github.com/YogeshT22?tab=repositories) <br/>
-
-- 🌱 I’m now learning React and learning more about computer science concepts (for eg: DSA, Compiler Design etc), mathematics, problem solving!  
+- 🔭 I’m currently doing Competitive programming and making full stack projects & also doing contribution to open source projects as well. <br> (https://github.com/YogeshT22?tab=repositories) <br/>
   
-- 💼 I Mostly work with making Full stack MERN webapps using trending technology like AI/ML, Chatgpt, Chatbots and etc <br> I also program in Embedded C++(EC++), Java(spring) and Python(Django) projects as well! using various modern libraries and frameworks mentioned below seperately.  <br/>  
+- 💼 I mostly be making full stack webapps using MERN in technologies like AI/ML, Chatgpt, AI Chatbots And so on, 
+<br> I also program in Embedded C++(EC++), Java(spring boot) projects as well! <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
