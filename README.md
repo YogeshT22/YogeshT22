@@ -5,7 +5,7 @@
 
 ### About Me!👨‍🚀  
 ----
-### <div align="left">I'm Yogesh, <br> --> A self taught developer, <br> --> pursuing a degree in Computer Science. </div>  
+### <div align="left">I'm Yogesh, <br> A self taught developer, <br> Pursuing a degree in Computer Science. </div>  
 ----
 
 - 🔭 I’m currently doing Competitive programming and making side projects <br> (https://github.com/YogeshT22?tab=repositories) <br/>
