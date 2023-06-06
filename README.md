@@ -4,7 +4,7 @@
 ### <div align="center"><b>About Me!👨‍🚀</b> </div> 
 
 ### <div align="center">I'm Yogesh, <br> A self taught developer, <br> pursuing a degree in Computer Science. </div>  
-----
+---- 
 
 - 🔭 I’m currently doing Competitive programming and making full stack projects & also doing contribution to open source projects as well. <br> (https://github.com/YogeshT22?tab=repositories) <br/>
   
