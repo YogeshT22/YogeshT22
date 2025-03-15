@@ -60,21 +60,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br></br>
-<a href="https://yogesht22.github.io/" target="_blank" style= "color:white; background-color: transparent; text-decoration: none; margin: 25px;"><b>Portfolio Website</b></a>
+<!-- <a href="https://yogesht22.github.io/" target="_blank"; style="color: white; text-decoration: none; margin: 25px;">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/022/763/701/small/portfolio-icon-vector.jpg" height="80">
+  <br>
+</a> -->
 
-<br/>  
-<div align="left">
-</div>  
-  
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/yogesht22" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
