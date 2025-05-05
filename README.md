@@ -6,8 +6,8 @@
 ### <div align="center"> I'm Yogesh, <em> Developer, combining self-learning with CS studies. </em>
 ----
 </div>  
-- 🔭 I'm actively engaged in competitive programming and deepening my understanding of core cloud technologies. I'm currently focused on mastering AWS services, including EC2, S3, and Lambda, and contributing to open-source projects to gain practical experience. You can see my work on GitHub: <br> (https://github.com/YogeshT22?tab=repositories) <br/>
-- 💼 My primary interest lies in cloud computing and DevOps. I am dedicating significant time to learning the nuances of these technologies and have built projects such as "an automated deployment pipeline using AWS CodePipeline and  Elastic Beanstalk". Additionally, I've developed front-end skills by creating and maintaining user interfaces for small startups, focusing on user-friendly experiences."
+- 🔭 I'm currently focused on mastering AWS services, including EC2, S3, and Lambda, and contributing to open-source projects to gain practical experience. You can see my Projects on GitHub: <br> (https://github.com/YogeshT22?tab=repositories) <br/>
+- 💼 My primary interest lies in cloud computing and DevOps. I am dedicating significant time to learning the nuances of these technologies and have built projects such as "Ammacare - Personalized android app for mother's to track their routine", "Cloud Infrastructure Automation with Terraform and AWS", "Serverless Automation System for Daily Task."
 <br> </br>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
