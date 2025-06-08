@@ -1,67 +1,80 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHcwbWh0YjNyMGZja3NmZXBsZjhkbjFrMTh1aTRhZmxqYXUzanV6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" align="right" style="width: 50%" />  
-  
-----
-### <div align="center"><b>About Me!👨‍🚀</b> </div> 
+<table width="100%">
+<tr>
+<td width="45%" valign="top">
 
-### <div align="center"> I'm Yogesh, <em> Developer, combining self-learning with CS studies. </em>
-----
-</div>  
-- 🔭 I'm currently focused on mastering AWS services, including EC2, S3, and Lambda, and contributing to open-source projects to gain practical experience. You can see my Projects on GitHub: [My GitHub Repositories](https://github.com/YogeshT22?tab=repositories)
-- 💼 My primary interest lies in cloud computing and DevOps. I am dedicating significant time to learning the nuances of these technologies and have built projects such as "Ammacare - Personalized android app for mother's to track their routine", "Cloud Infrastructure Automation with Terraform and AWS", "Serverless Automation System for Daily Task."
-<br> </br>
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- LEFT COLUMN: ABOUT, INTRO, CONTACT -->
 
-### Frontend  
-<div align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
- <a href="https://sass-lang.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 15px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="ReactNative" height="40" /></a>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" height="40" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
-<a href="https://helpx.adobe.com/support/xd.html" target="_blank"><img style="margin: 15px" src="https://cdn-icons-png.flaticon.com/512/5968/5968604.png" alt="XD" height="40" /></a>
-</div>
+# Yogesh T
+* Ex-Sysadmin Learning to Build in the Cloud  
+* AWS • DevOps • Automation 
+
+---
+
+## 👋 About Me & Focus
+
+Hi, I'm Yogesh — a tech learner with a background in system administration, now focused on Cloud Computing and DevOps. I’m currently working on:
+
+* Building practical skills in **AWS services** like EC2, S3, Lambda, and RDS etc.  
+* Learning **System Design** to architect scalable and reliable systems.  
+* Contributing to **open-source** to gain real-world experience and collaborate with others.  
+* Applying **Infrastructure as Code**, containerization, and CI/CD concepts in hands-on projects.
+
+I’m passionate about automation, continuous learning, and simplifying complex systems.
+
+---
+
+## 📫 Contact Me
+
+* **LinkedIn:** [linkedin.com/in/yogesht22](https://linkedin.com/in/yogesht22)  
+* **GitHub:** [github.com/YogeshT22](https://github.com/YogeshT22)  
+* **Twitter:** [@Ystoff01](https://twitter.com/Ystoff01)  
+* **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
+* **Portfolio:** [yogesht22.github.io](https://yogesht22.github.io/)
+
+</td>
+<td width="55%" valign="top" style="padding-left: 20px;">
+
+<!-- RIGHT COLUMN: SKILLS, PROJECTS -->
+
+## 🛠️ Skills & Technologies
+
+*   **Cloud / DevOps:**
+    AWS (EC2, S3, Lambda, RDS, EKS, VPC, IAM, CloudWatch, CloudFormation), Terraform, Docker, Jenkins, Git, Linux, Bash, CI/CD, Nginx, LocalStack, MiniKube
+*   **Backend:**
+    Python, Java, Node.js, C++, SQL (MySQL), GraphQL, REST APIs
+*   **Frontend:**
+    JavaScript, TypeScript, React, Next.js, HTML5, CSS3
+*   **Mobile Development:**
+    Android (Java/Kotlin)
+
+---
+
+## 🚀 Projects
+
+### Cloud / DevOps:
+
+* **[Mini Project 1: Multi-Pattern-Container-Deployment(Docker + Localstack)](https://github.com/YogeshT22/Multi-Pattern-Container-Deployment):**
+    * This project demonstrates foundational DevOps principles by deploying an Nginx web server using three distinct, progressively complex patterns. It uses Docker, Docker Compose, Python, and LocalStack.
  
-</td><td valign="top" width="33%">
+* **[Mini Project 2: Local Data Pipeline using Dockerized PostgreSQL/MySQL + Python]():**
+    * A local data pipeline that uses Dockerized PostgreSQL or MySQL as the database backend and Python for data ingestion, transformation, and storage. The pipeline runs locally inside containers to simulate production-like workflows for ETL (Extract, Transform, Load) processes.
 
-### Backend  
-<div align="left">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 15px" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node.js" height="40" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="Mysql" height="40" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 15px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash" height="40" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="40" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 15px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-3yO4QhP98fKmNe165I4Vp-cgw_CFYDOyw&s" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 15px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40" /></a>
-</div>
-</td></tr></table>  
+* **[Scalable Web Application with CI/CD and Infrastructure as Code](Planned for future):**  
+    * Build a multi-tier web app (e.g., React frontend + Node.js backend + MySQL or PostgreSQL database 
 
-## Connect with me  
-</br>
-<a href="https://github.com/YogeshT22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Ystoff01" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yogesht22" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br></br>
-<!-- <a href="https://yogesht22.github.io/" target="_blank"; style="color: white; text-decoration: none; margin: 25px;">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/022/763/701/small/portfolio-icon-vector.jpg" height="80">
-  <br>
-</a> -->
+* **[Serverless Event-Driven Data Pipeline](Planned for future):**  
+    * Created a serverless pipeline that ingests data, processes it, and stores the results
 
+* **[Kubernetes-Based Microservices Application with Service Mesh and Auto-Scaling](Planned for future):**  
+    * Develop a microservices app (e.g., simple e-commerce or task manager) composed of multiple containerized services communicating over a service mesh (using Istio).
+
+### Android:
+
+* **[Ammacare App](https://github.com/YogeshT22/Ammacare-Android-App.git):**  
+  A personalized Android app to help mothers track daily routines and care tasks.
+---
+### **Explore my projects and their implementation details:** [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
+
+</td>
+</tr>
+</table>
