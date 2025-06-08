@@ -23,6 +23,8 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 ---
 
+> **Note:** The links below opens in the same tab on GitHub. Use right-click > Open in new tab.
+
 ## 📫 Contact Me
 
 * **LinkedIn:** [linkedin.com/in/yogesht22](https://linkedin.com/in/yogesht22)  
