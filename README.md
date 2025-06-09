@@ -65,7 +65,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **[Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL + Python)](https://github.com/YogeshT22/local-docker-data-pipeline):**
     * This project demonstrates a fundamental ETL (Extract, Transform, Load) data pipeline pattern using Python and a PostgreSQL database, all running as isolated services orchestrated by Docker Compose. The key focus is on managing a stateful service (the database) and ensuring data persistence across container lifecycles using Docker Volumes.
 
-* **[Automated Personal Server Setup with Configuration Management (Ansible): (Focus: IaC fundamentals, automation, server config)](https://github.com/YogeshT22/automated-personal-server-ansible):**  
+* **[Automated Personal Server Setup with Configuration Management (Ansible): (Focus: IaC fundamentals, automation, server config)](https://github.com/YogeshT22/big-project-1-ansible-server):**  
     * An Infrastructure as Code (IaC) project leveraging Ansible to automate the complete setup and configuration of a personal server. This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
 
 * **[End-to-End CI/CD Pipeline (Gitea + Jenkins + Docker + Local Registry): (Focus: More complete CI/CD setup, popular tooling)](https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker):**  
