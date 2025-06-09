@@ -62,7 +62,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **[Mini Project 1: Multi-Pattern-Container-Deployment(Docker + Localstack)](https://github.com/YogeshT22/Multi-Pattern-Container-Deployment):**
     * This project demonstrates foundational DevOps principles by deploying an Nginx web server using three distinct, progressively complex patterns. It uses Docker, Docker Compose, Python, and LocalStack.
  
-* **[Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL/MySQL + Python)](https://github.com/YogeshT22/local-docker-data-pipeline):**
+* **[Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL + Python)](https://github.com/YogeshT22/local-docker-data-pipeline):**
     * This project demonstrates a fundamental ETL (Extract, Transform, Load) data pipeline pattern using Python and a PostgreSQL database, all running as isolated services orchestrated by Docker Compose. The key focus is on managing a stateful service (the database) and ensuring data persistence across container lifecycles using Docker Volumes.
 
 * **[Automated Personal Server Setup with Configuration Management (Ansible): (Focus: IaC fundamentals, automation, server config)](https://github.com/YogeshT22/automated-personal-server-ansible):**  
