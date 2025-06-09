@@ -32,7 +32,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **Twitter:** [@Ystoff01](https://twitter.com/Ystoff01)  
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
 * **Portfolio:** [yogesht22.me](https://yogesht22.me) (in progress)
-
+---
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
 
@@ -62,8 +62,8 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **[Mini Project 1: Multi-Pattern-Container-Deployment(Docker + Localstack)](https://github.com/YogeshT22/Multi-Pattern-Container-Deployment):**
     * This project demonstrates foundational DevOps principles by deploying an Nginx web server using three distinct, progressively complex patterns. It uses Docker, Docker Compose, Python, and LocalStack.
  
-* **[Mini Project 2: Local Data Pipeline using Dockerized PostgreSQL/MySQL + Python](https://github.com/YogeshT22/local-docker-data-pipeline):**
-    * A local data pipeline that uses Dockerized PostgreSQL or MySQL as the database backend and Python for data ingestion, transformation, and storage. The pipeline runs locally inside containers to simulate production-like workflows for ETL (Extract, Transform, Load) processes.
+* **[Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL/MySQL + Python)](https://github.com/YogeshT22/local-docker-data-pipeline):**
+    * This project demonstrates a fundamental ETL (Extract, Transform, Load) data pipeline pattern using Python and a PostgreSQL database, all running as isolated services orchestrated by Docker Compose. The key focus is on managing a stateful service (the database) and ensuring data persistence across container lifecycles using Docker Volumes.
 
 * **[Automated Personal Server Setup with Configuration Management (Ansible): (Focus: IaC fundamentals, automation, server config)](https://github.com/YogeshT22/automated-personal-server-ansible):**  
     * An Infrastructure as Code (IaC) project leveraging Ansible to automate the complete setup and configuration of a personal server. This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
