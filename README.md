@@ -23,7 +23,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 ---
 
-> **Note:** The links below opens in the same tab on GitHub. Use right-click > Open in new tab.
+> **Note:** The links below opens in the same tab on GitHub. Use right-click / middle-mouse button > To open in new tab.
 
 ## 📫 Contact Me
 
@@ -52,6 +52,8 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 ---
 
 ## 🚀 Projects
+
+> **Note:** The links below opens in the same tab on GitHub. Use right-click / middle-mouse button > To open in new tab.
 
 ### Cloud / DevOps:
 
