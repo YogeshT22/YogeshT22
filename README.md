@@ -31,7 +31,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **GitHub:** [github.com/YogeshT22](https://github.com/YogeshT22)  
 * **Twitter:** [@Ystoff01](https://twitter.com/Ystoff01)  
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
-* **Portfolio:** [yogesht22.me](https://yogesht22.me)
+* **Portfolio:** [yogesht22.me](https://yogesht22.me) (in progress)
 
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
