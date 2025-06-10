@@ -36,10 +36,11 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 ## 🔭 Future Plans & OSS Contribution Goals
 
-* Contribute to documentation, testing, and CI setup for tools like LocalStack, Ansible collections, and Jenkins plugins.
-* Build and publish reusable Ansible roles and Terraform modules (e.g., `nginx-server`, `S3 bucket with lifecycle rules`, etc.)
-* Help small open-source tools adopt Docker, GitHub Actions, or Jenkins-based CI/CD.
-* Actively triage bugs and participate in GitHub discussions to gain collaborative experience.
+- 📝 Contribute to documentation, testing, and CI setups for tools like **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
+- 📦 Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
+- ⚙️ Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
+- 🐞 Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
+
 ---
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
