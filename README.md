@@ -33,10 +33,17 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
 * **Portfolio:** [yogesht22.me](https://yogesht22.me) (in progress)
 ---
+
+## 🔭 Future Plans & OSS Contribution Goals
+
+* Contribute to documentation, testing, and CI setup for tools like LocalStack, Ansible collections, and Jenkins plugins.
+* Build and publish reusable Ansible roles and Terraform modules (e.g., `nginx-server`, `S3 bucket with lifecycle rules`, etc.)
+* Help small open-source tools adopt Docker, GitHub Actions, or Jenkins-based CI/CD.
+* Actively triage bugs and participate in GitHub discussions to gain collaborative experience.
+---
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
 
----
 
 <!-- RIGHT COLUMN: SKILLS, PROJECTS -->
 
