@@ -43,6 +43,10 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 - Improve security concerns in my existing projects.
 
 ---
+### **Explore my projects and their implementation details:** [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
+
+---
+
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
 
@@ -93,7 +97,6 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **[Ammacare Kotlin Based Personalization App](https://github.com/YogeshT22/Ammacare-Kotlin-Android-App):**  
   A personalized Android app to help mothers track daily routines and care tasks.
 ---
-### **Explore my projects and their implementation details:** [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
 
 </td>
 </tr>
