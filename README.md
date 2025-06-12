@@ -34,12 +34,13 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **Portfolio:** [yogesht22.me](https://yogesht22.me)
 ---
 
-## 🔭 Future Plans & OSS Contribution Goals
+## 🔭 Future Plans/Tasks & OSS Contribution Goals
 
-- 📝 Contribute to documentation, testing, and CI setups for tools like **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
-- 📦 Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
-- ⚙️ Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
-- 🐞 Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
+- Contribute to documentation, testing, and CI setups for tools like **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
+- Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
+- Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
+- Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
+- Improve security concerns in my existing projects.
 
 ---
 </td>
