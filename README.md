@@ -36,6 +36,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 ## 🔭 Future Plans/Tasks & OSS Contribution Goals
 
+- Proactive outreach and consistent engagement -> increasing visibility.
 - Contribute to documentation, testing, and CI setups for tools like **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
 - Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
 - Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
