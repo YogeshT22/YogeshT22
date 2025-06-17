@@ -32,6 +32,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **Twitter:** [@Ystoff01](https://twitter.com/Ystoff01)  
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
 * **Portfolio:** [yogesht22.me](https://yogesht22.me)
+* **Medium(Blog):** [medium.com/@yogesht22](https://medium.com/@yogesht22)
 ---
 
 ## 🔭 Future Plans/Tasks & OSS Contribution Goals
