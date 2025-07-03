@@ -33,7 +33,6 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
 * **Portfolio:** [yogesht22.me](https://yogesht22.me)
 * **Blog:** [Portfolio's Blog](https://yogesht22.me/blog)
-* **Medium(Blog):** [medium.com/@yogesht22](https://medium.com/@yogesht22)
 ---
 
 ## 🔭 Future Plans/Tasks & OSS Contribution Goals
