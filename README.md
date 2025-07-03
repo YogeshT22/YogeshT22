@@ -6,7 +6,7 @@
 
 # Yogesh T
 * Sysadmin Learning to Build in the Cloud  
-* AWS • DevOps • Automation 
+* AWS • DevOps • Automation • System Design 
 
 ---
 
@@ -23,7 +23,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 ---
 
-> **Note:** The links below opens in the same tab on GitHub. Use right-click / middle-mouse button > To open in new tab.
+> **Note:** The links below open in the same tab on GitHub. Use right-click / middle-mouse button > To open in new tab.
 
 ## 📫 Contact Me
 
@@ -73,32 +73,77 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 
 > **Note:** The links below open in the same tab on GitHub. Use right-click / middle-mouse button > To open in new tab.
 
-### Cloud / DevOps:
+### 🌟 Highlight Projects
 
-* **[Mini Project 1: Multi-Pattern-Container-Deployment(Docker + Localstack)](https://github.com/YogeshT22/Multi-Pattern-Container-Deployment):**
-    * This project demonstrates foundational DevOps principles by deploying an Nginx web server using three distinct, progressively complex patterns. It uses Docker, Docker Compose, Python, and LocalStack.
+<ul>
+   <li><strong><a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup with Configuration Management (Ansible)</a></strong><br>
+    <details>
+      <summary><em>Click to expand project description</em></summary><br>
+      An Infrastructure as Code (IaC) project leveraging Ansible to automate the complete setup and configuration of a personal server.  
+      This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
+    </details>
+  </li>
+
+  <li><strong><a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Pipeline (Gitea + Jenkins + Docker + Local Registry)</a></strong><br>
+    <details>
+      <summary><em>Click to expand project description</em></summary><br>
+      Developed and implemented a comprehensive end-to-end CI/CD pipeline integrating Gitea for version control, Jenkins for automation, Docker for containerization, and a local registry for image management.  
+      This project showcases practical experience in building robust development workflows, automating software delivery, and working with popular DevOps tools.
+    </details>
+  </li>
+</ul>
+
+---
+
+### 🧰 More Projects
+
+<details>
+<summary><strong>📦 Click to view remaining DevOps projects</strong></summary><br>
+
+<ul>
+<li><strong><a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Mini Project 1: Multi-Pattern-Container-Deployment (Docker + LocalStack)</a></strong><br>
+    <details>
+      <summary><em>Click to expand project description</em></summary><br>
+      This project demonstrates foundational DevOps principles by deploying an Nginx web server using three distinct, progressively complex patterns.  
+      It uses Docker, Docker Compose, Python, and LocalStack.
+    </details>
+  </li>
+  <li><strong><a href="https://github.com/YogeshT22/local-docker-data-pipeline">Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL + Python)</a></strong><br>
+    <details>
+      <summary><em>Click to expand project description</em></summary><br>
+      This project demonstrates a fundamental ETL (Extract, Transform, Load) data pipeline pattern using Python and a PostgreSQL database,  
+      all running as isolated services orchestrated by Docker Compose.  
+      The key focus is on managing a stateful service (the database) and ensuring data persistence across container lifecycles using Docker Volumes.
+    </details>
+  </li>
+
  
-* **[Mini Project 2: Containerized ETL Data Pipeline (PostgreSQL + Python)](https://github.com/YogeshT22/local-docker-data-pipeline):**
-    * This project demonstrates a fundamental ETL (Extract, Transform, Load) data pipeline pattern using Python and a PostgreSQL database, all running as isolated services orchestrated by Docker Compose. The key focus is on managing a stateful service (the database) and ensuring data persistence across container lifecycles using Docker Volumes.
+</ul>
 
-* **[Automated Personal Server Setup with Configuration Management (Ansible): (Focus: IaC fundamentals, automation, server config)](https://github.com/YogeshT22/project-1-ansible-server):**  
-    * An Infrastructure as Code (IaC) project leveraging Ansible to automate the complete setup and configuration of a personal server. This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
+</details>
 
-* **[End-to-End CI/CD Pipeline (Gitea + Jenkins + Docker + Local Registry): (Focus: More complete CI/CD setup, popular tooling)](https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker):**  
-    * Developed and implemented a comprehensive end-to-end CI/CD pipeline integrating Gitea for version control, Jenkins for automation, Docker for containerization, and a local registry for image management. This project showcases practical experience in building robust development workflows, automating software delivery, and working with popular DevOps tools.
 ---
 
-### Other projects:
+### 🛠️ Other Projects (Planned)
 
-* **[MyNotes – Simple Web-Based Note-Taking App - Python, Flask, SQLite/PostgreSQL, HTML, CSS, JavaScript, REST APIs, CRUD Operations.](Planned for future):**
-* **[QuickSort CLI – Automated File Organizer - Python, CLI Development (argparse/click), File System Operations, Scripting, Automation.](Planned for future):**
-* **[C++ LZW File Compressor/Decompressor (CLI) - C++, Algorithms (LZW), Data Structures (Hash Maps/Tries), File I/O, Bit Manipulation, CLI Development, Memory Management.](Planned for future):**
+<details>
+<summary><strong>📌 Click to view planned projects</strong></summary><br>
+<ul>
+  <li><strong>MyNotes:</strong> Simple Web-Based Note-Taking App – Python, Flask, SQLite/PostgreSQL, HTML, CSS, JavaScript, REST APIs, CRUD Ops.</li>
+  <li><strong>QuickSort CLI:</strong> Automated File Organizer – Python, CLI Dev (argparse/click), File Ops, Automation.</li>
+  <li><strong>C++ LZW Compressor:</strong> File Compressor/Decompressor – C++, LZW Algorithm, File I/O, Bit Manipulation.</li>
+</ul>
+</details>
+
 ---
 
-### Android:
+### 📱 Android
 
-* **[Ammacare Kotlin Based Personalization App](https://github.com/YogeshT22/Ammacare-Kotlin-Android-App):**  
-  A personalized Android app to help mothers track daily routines and care tasks.
+<ul>
+  <li><strong><a href="https://github.com/YogeshT22/Ammacare-Kotlin-Android-App">Ammacare Kotlin Based Personalization App</a></strong><br>
+    A personalized Android app to help mothers track daily routines and care tasks.
+  </li>
+</ul>
 
 
 </td>
