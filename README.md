@@ -83,13 +83,19 @@ I’m passionate about automation, continuous learning, and simplifying complex 
     </details>
   </li>
 
-  <li><strong><a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Pipeline (Gitea + Jenkins + Docker + Local Registry)</a></strong><br>
-    <details>
-      <summary><em>Click to expand project description</em></summary><br>
-      Developed and implemented a comprehensive end-to-end CI/CD pipeline integrating Gitea for version control, Jenkins for automation, Docker for containerization, and a local registry for image management.  
-      This project showcases practical experience in building robust development workflows, automating software delivery, and working with popular DevOps tools.
-    </details>
-  </li>
+<li><strong><a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Kubernetes + Jenkins + Gitea + Docker)</a></strong><br>
+  <details>
+    <summary><em>Click to expand project description</em></summary><br>
+    Built a production-grade, end-to-end CI/CD platform with full DevOps lifecycle automation.  
+    Utilized Kubernetes (K3s) for container orchestration, Jenkins for CI/CD pipelines, Gitea for self-hosted GitOps, Docker for containerization, and a local Docker registry for image management.  
+    Integrated Trivy for container image scanning (DevSecOps) and Prometheus/Grafana for observability.  
+    The system automates code build, test, scan, and deployment to a live Kubernetes cluster via webhook triggers and Helm charts.  
+    <br><br>
+    <strong>Tools & Tech:</strong> Terraform, K3s, Jenkins, Gitea, Docker, Trivy, Prometheus, Grafana, Helm  
+    <br><br>
+    <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
+  </details>
+</li>
 </ul>
 
 ---
