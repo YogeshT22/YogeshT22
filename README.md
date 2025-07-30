@@ -87,8 +87,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
   <details>
     <summary><em>Click to expand project description</em></summary><br>
     Built a production-grade, end-to-end CI/CD platform with full DevOps lifecycle automation.  
-    Utilized Kubernetes (K3s) for container orchestration, Jenkins for CI/CD pipelines, Gitea for self-hosted GitOps, Docker for containerization, and a local Docker registry for image management.  
-    Integrated Trivy for container image scanning (DevSecOps) and Prometheus/Grafana for observability.  
+    Utilized Kubernetes (K3s) for container orchestration, Jenkins for CI/CD pipelines, Gitea for self-hosted GitOps, Docker for containerization, and a local Docker registry for image management. Prometheus/Grafana for observability.  
     The system automates code build, test, scan, and deployment to a live Kubernetes cluster via webhook triggers and Helm charts.  
     <br><br>
     <strong>Tools & Tech:</strong> Terraform, K3s, Jenkins, Gitea, Docker, Trivy, Prometheus, Grafana, Helm  
