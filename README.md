@@ -90,7 +90,7 @@ I’m passionate about automation, continuous learning, and simplifying complex 
     Utilized Kubernetes (K3s) for container orchestration, Jenkins for CI/CD pipelines, Gitea for self-hosted GitOps, Docker for containerization, and a local Docker registry for image management. Prometheus/Grafana for observability.  
     The system automates code build, test, scan, and deployment to a live Kubernetes cluster via webhook triggers and Helm charts.  
     <br><br>
-    <strong>Tools & Tech:</strong> Terraform, K3s, Jenkins, Gitea, Docker, Trivy, Prometheus, Grafana, Helm  
+    <strong>Tools & Tech:</strong> Terraform, K3s, Jenkins, Gitea, Docker, Prometheus, Grafana, Helm  
     <br><br>
     <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
   </details>
