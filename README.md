@@ -42,7 +42,6 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 - Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
 - Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
 - Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
-- Improve security concerns in my existing projects.
 
 ---
 ### **Explore my projects and their implementation details:** [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
