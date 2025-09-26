@@ -43,10 +43,6 @@ I’m passionate about automation, continuous learning, and simplifying complex 
 - Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
 - Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
 
----
-### **Explore my projects and their implementation details:** [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
-
----
 
 </td>
 <td width="55%" valign="top" style="padding-left: 20px;">
@@ -148,7 +144,11 @@ I’m passionate about automation, continuous learning, and simplifying complex 
   </li>
 </ul>
 
+---
 
+### <i>**Explore my projects and their implementation details:**</i> [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
+
+---
 </td>
 </tr>
 </table>
