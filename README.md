@@ -12,14 +12,14 @@
 
 ## 👋 About Me & Focus
 
-Hi, I'm Yogesh — a tech learner with a background in system administration, now focused on Cloud Computing and DevOps. I’m currently working on:
+Hi, I'm Yogesh — a tech learner with a hands-on knowledge in system administration, Cloud Computing and DevOps. I’m currently working on:
 
 * Building practical skills in **AWS services** like EC2, S3, Lambda, and RDS etc.  
 * Learning **System Design** to architect scalable and reliable systems.  
 * Contributing to **open-source** to gain real-world experience and collaborate with others.  
 * Applying **Infrastructure as Code**, containerization, and CI/CD concepts in hands-on projects.
 
-I’m passionate about automation, continuous learning, and simplifying complex systems.
+I’m passionate about automation, system design, networking architectures and love to continuously learn, and simplifying complex systems to others :)
 
 ---
 
