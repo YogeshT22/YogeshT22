@@ -5,7 +5,7 @@
 <!-- LEFT COLUMN: ABOUT, INTRO, CONTACT -->
 
 # Yogesh T
-* Sysadmin Learning to Build in the Cloud  
+* Learning to Build in the Cloud  
 * AWS • DevOps • Automation • System Design 
 
 ---
