@@ -4,22 +4,24 @@
 
 <!-- LEFT COLUMN: ABOUT, INTRO, CONTACT -->
 
-# Yogesh T
-* Learning to Build in the Cloud  
-* AWS • DevOps • Automation • System Design 
+###
 
----
+# 👋 I am Yogesh
+  
+* **Backend + DevOps Developer** | AWS Cloud & Automation Enthusiast
+* Building scalable systems and automating infrastructure.
+
 
 ## 👋 About Me & Focus
 
-Hi, I'm Yogesh — a tech learner with a hands-on knowledge in system administration, Cloud Computing and DevOps. I’m currently working on:
+- I’m a tech learner passionate about backend systems, CI/CD pipelines, and AWS cloud automation.
 
-* Building practical skills in **AWS services** like EC2, S3, Lambda, and RDS etc.  
-* Learning **System Design** to architect scalable and reliable systems.  
-* Contributing to **open-source** to gain real-world experience and collaborate with others.  
-* Applying **Infrastructure as Code**, containerization, and CI/CD concepts in hands-on projects.
+Currently focused on:
 
-I’m passionate about automation, system design, networking architectures and love to continuously learn, and simplifying complex systems to others :)
+1. Designing scalable APIs and automating deployments.
+2. Mastering AWS services (EC2, Lambda, S3, RDS, IAM, CloudFormation).
+3. Contributing to open-source CI/CD and Infrastructure-as-Code tools.
+4. Building real-world Backend & DevOps, Cloud projects with Docker, Jenkins, Terraform and Kubernetes.
 
 ---
 
@@ -33,19 +35,38 @@ I’m passionate about automation, system design, networking architectures and l
 * **Email:** [yogeshoffy@gmail.com](mailto:yogeshoffy@gmail.com)  
 * **Portfolio:** [yogesht22.me](https://yogesht22.me)
 * **Blog:** [Portfolio's Blog](https://yogesht22.me/blog)
+
 ---
+
+## 🛠️ Skills & Technologies
+
+
+*  **Cloud:**
+   AWS (EC2, S3, Lambda, RDS, EKS, VPC, IAM, CloudFormation)
+*  **Devops (Specialized in this domain):** 
+	Terraform, Jenkins, Docker, Git, Bash, Linux, CI/CD, Nginx
+*  **Backend: (Specialized in this domain)**
+   Python, FastAPI, PostgreSQL, Node.js (Express), JWT, REST APIs
+*  **Frontend:**
+	React (Basic), JS, Tailwind
+*  **Other:**
+	LocalStack, MiniKube, Android (Kotlin Basics)
+---
+
 
 ## 🔭 Future Plans/Tasks & OSS Contribution Goals
 
-- Proactive outreach and consistent engagement -> increasing visibility.
-- Contribute to documentation, testing, and CI setups for tools like **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
-- Build and publish **reusable Ansible roles** and **Terraform modules** (e.g., NGINX server, S3 with lifecycle policies).
-- Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins-based CI/CD** workflows.
+- Proactive outreach and consistent engagement -> Increasing visibility.
+- Contribute to documentation, APIs, testing, and CI setups for tools like eg: **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
+- Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins based CI/CD** workflows.
 - Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
 
 ---
 
-### <i>**Explore my projects and their implementation details:**</i> [My GitHub Repositories »](https://github.com/YogeshT22?tab=repositories)
+### **Explore my projects and their implementation details:**</i> 
+#### [My GitHub Repositories :) ](https://github.com/YogeshT22?tab=repositories)
+
+###
 
 </td>
 
@@ -55,18 +76,7 @@ I’m passionate about automation, system design, networking architectures and l
 
 <!-- RIGHT COLUMN: SKILLS, PROJECTS -->
 
-## 🛠️ Skills & Technologies
-
-
-*  **Cloud / DevOps:**
-   AWS (EC2 | S3 | Lambda | RDS | EKS | VPC | IAM | CloudWatch | CloudFormation) | Terraform | Docker | Jenkins | Git | Linux | Bash | CI/CD | Nginx | LocalStack | MiniKube
-*  **Backend:**
-   Python | Java | Node.js | C++ | SQL (MySQL) | GraphQL | REST APIs
-*  **Frontend:**
-   JavaScript | TypeScript | React | Next.js | HTML5 | CSS3
-*  **Mobile Development:**
-   Android (Java | Kotlin)
----
+###
 
 ## 🚀 Projects
 
@@ -75,22 +85,39 @@ I’m passionate about automation, system design, networking architectures and l
 ### 🌟 Highlight Projects
 
 <ul>
+   <u><h4>Category: DEVOPS SERVER PROJECT</h4></u>
    <li><strong><a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup with Configuration Management (Ansible)</a></strong><br>
     <details>
       <summary><em>Click to expand project description</em></summary><br>
-      An Infrastructure as Code (IaC) project leveraging Ansible to automate the complete setup and configuration of a personal server.  
-      This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
+    Used Ansible for full personal server provisioning (IaC) idempotent, repeatable deployments.  
+    This project demonstrates foundational skills in automation, idempotent server provisioning, and maintaining consistent system configurations, essential for scalable and repeatable deployments.
     </details>
   </li>
 
+---
+
+<u><h4>Category: DEVOPS PIPELINE PROJECT</h4></u>
 <li><strong><a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Kubernetes + Jenkins + Gitea + Docker)</a></strong><br>
   <details>
     <summary><em>Click to expand project description</em></summary><br>
-    Built a production-grade, end-to-end CI/CD platform with full DevOps lifecycle automation.  
-    Utilized Kubernetes (K3s) for container orchestration, Jenkins for CI/CD pipelines, Gitea for self-hosted GitOps, Docker for containerization, and a local Docker registry for image management. Prometheus/Grafana for observability.  
-    The system automates code build, test, scan, and deployment to a live Kubernetes cluster via webhook triggers and Helm charts.  
+    Built a production-ready CI/CD pipeline integrating Jenkins, Kubernetes (K3s), Gitea, and Docker.
+Automates build → test → deploy using webhooks and Helm. 
     <br><br>
     <strong>Tools & Tech:</strong> Terraform, K3s, Jenkins, Gitea, Docker, Prometheus, Grafana, Helm  
+    <br><br>
+    <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
+  </details>
+</li>
+
+---
+
+<u><h4>Category: BACKEND API PROJECT</h4></u>
+<li><strong><a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API with CI/CD, FULL CRUD(RestAPI, JWT, FastAPI, PostgreSQL, Python, GitHub Actions, Docker, OAuth2, Argon2)</a></strong><br>
+  <details>
+    <summary><em>Click to expand project description</em></summary><br>
+The project demonstrates a full backend development lifecycle, from local containerized development to a fully automated CI pipeline using GitHub Actions that builds and publishes a production-ready Docker image to Docker Hub.	
+    <br><br>
+    <strong>Tools & Tech:</strong> FastAPI, PostgreSQL, Github Actions, Docker, Docker compose, Python, Rest API, Argon2, JWT, OAuth2.   
     <br><br>
     <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
   </details>
@@ -102,7 +129,7 @@ I’m passionate about automation, system design, networking architectures and l
 ### 🧰 More Projects
 
 <details>
-<summary><strong>📦 Click to view remaining DevOps projects</strong></summary><br>
+<summary><strong>📦 Click to view DevOps, Backend projects</strong></summary><br>
 
 <ul>
 <li><strong><a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Mini Project 1: Multi-Pattern-Container-Deployment (Docker + LocalStack)</a></strong><br>
@@ -133,23 +160,19 @@ I’m passionate about automation, system design, networking architectures and l
 <details>
 <summary><strong>📌 Click to view planned projects</strong></summary><br>
 <ul>
-  <li><strong>MyNotes:</strong> Simple Web-Based Note-Taking App – Python, Flask, SQLite/PostgreSQL, HTML, CSS, JavaScript, REST APIs, CRUD Ops.</li>
   <li><strong>QuickSort CLI:</strong> Automated File Organizer – Python, CLI Dev (argparse/click), File Ops, Automation.</li>
-  <li><strong>C++ LZW Compressor:</strong> File Compressor/Decompressor – C++, LZW Algorithm, File I/O, Bit Manipulation.</li>
 </ul>
 </details>
 
 ---
 
-### 📱 Android
+### 📱 Mobile Backend Projects
 
 <ul>
   <li><strong><a href="https://github.com/YogeshT22/Ammacare-Kotlin-Android-App">Ammacare Kotlin Based Personalization App</a></strong><br>
     A personalized Android app to help mothers track daily routines and care tasks.
   </li>
 </ul>
-
----
 
 </td>
 </tr>
