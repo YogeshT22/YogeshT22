@@ -127,9 +127,10 @@ The project demonstrates a full backend development lifecycle, from local contai
 ---
 
 ### 🧰 More Projects
-
+<!--
 <details>
 <summary><strong>📦 Click to view DevOps, Backend projects</strong></summary><br>
+-->
 
 <ul>
 <li><strong><a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Mini Project 1: Multi-Pattern-Container-Deployment (Docker + LocalStack)</a></strong><br>
