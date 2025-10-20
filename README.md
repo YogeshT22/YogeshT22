@@ -122,6 +122,20 @@ The project demonstrates a full backend development lifecycle, from local contai
     <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
   </details>
 </li>
+
+---
+
+<u><h4>Category: BACKEND SAAS APP PROJECT</h4></u>
+<li><strong><a href="https://github.com/YogeshT22/cloud-task-manager-api">SaaS Subscription Backend with Node.js & Stripe</a></strong><br>
+  <details>
+    <summary><em>Click to expand project description</em></summary><br>
+The application features a secure REST API with JWT-based authentication and a full, test-mode integration with Stripe for creating subscription checkout sessions and handling payment confirmation via webhooks. The entire system is designed to be a robust foundation for any subscription-based service.	
+    <br><br>
+    <strong>Tools & Tech:</strong> Node.js, Docker, Docker compose, Python, ExpressJS, Rest API, JWT, MongoDB, bcrypt.js, PostMan, NGrok.   
+    <br><br>
+    <strong>Focus:</strong> Infrastructure as Code (IaC), GitOps, DevSecOps, Observability, Kubernetes-native automation
+  </details>
+</li>
 </ul>
 
 ---
