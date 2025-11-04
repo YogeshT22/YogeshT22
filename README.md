@@ -15,7 +15,7 @@
 
 - I’m a tech learner with good experience in Linux/System Administration, Devops, CI/CD pipelines, and AWS cloud automation via terraform..
 
-** Currently focused on:**
+**Currently focused on:**
 
 1. From Linux/System Administration -> Mastering AWS, Devops, Infra Automation.
 2. Contributing to open-source CI/CD and Infrastructure-as-Code tools.
@@ -48,15 +48,6 @@
 	React (Basic), JS, Tailwind
 *  **Other:**
 	LocalStack, MiniKube, Android (Kotlin Basics)
----
-
-## 🔭 Future Plans/Tasks & OSS Contribution Goals
-
-- My Future Pathway is Sysadmin -> Devops/Cloud Engineer, Currently Looking for Sysadmin/Cloud Support.
-- Proactive outreach and consistent engagement -> Increasing visibility.
-- Contribute to documentation, APIs, and CI setups for tools like eg: **LocalStack**, **Ansible Collections**, and **Jenkins plugins**.
-- Help small open-source projects adopt **Docker**, **GitHub Actions**, or **Jenkins based CI/CD** workflows.
-- Actively triage bugs and participate in **GitHub discussions** to gain collaborative and issue-tracking experience.
 
 ###
 
