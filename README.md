@@ -7,17 +7,14 @@
 ###
 
 # 👋 I am Yogesh
-  
-* My domain: **Sysadmin** transitioning to **DevOps/Cloud(AWS)**
-* I do **API Development** (FastAPI, NodeJS) as well!
-
 ## 🎇 About Me & Focus
 
-- I’m a tech learner with good experience in Linux/System Administration, Devops, CI/CD pipelines, and AWS cloud automation via terraform..
+* My domain: **1+YOE** **Sysadmin** transitioning -> to **DevOps/Cloud(AWS)**
+* I also do **API Development** (well versed in FastAPI)
 
 **Currently focused on:**
 
-1. From Linux/System Administration -> Mastering AWS, Devops, Infra Automation.
+1. From Linux/System Administration -> Mastering Cloud(AWS), Devops, Infra Automation/SRE.
 2. Contributing to open-source CI/CD and Infrastructure-as-Code tools.
 3. Building practical DevOps, Cloud projects with Docker, Jenkins, Terraform and Kubernetes.
 
@@ -39,15 +36,15 @@
 ## 🛠️ Skills & Technologies
 
 *  **Cloud:**
-   AWS (EC2, S3, Lambda, RDS, EKS, VPC, IAM)
-*  **Devops (Specializing in this domain):** 
-	Terraform, Jenkins, Docker, Git, Bash, Linux, CI/CD, Nginx
-*  **Backend: (Decent knowledge)**
-   Python, FastAPI, PostgreSQL, Node.js (Express), JWT, RESTful APIs
+   _AWS (EC2, S3, Lambda, EKS, VPC, IAM)_
+*  **Sysadmin/Devops:**
+   _Terraform, Jenkins, Docker, Git, Bash, Linux, CI/CD, Nginx_
+*  **Backend:**
+   _Python, FastAPI, PostgreSQL, ExpressJS, JWT, RESTful APIs_
 *  **Frontend:**
-	React (Basic), JS, Tailwind
+   _React (Basic), JS, Tailwind_
 *  **Other:**
-	LocalStack, MiniKube, Android (Kotlin Basics)
+   _LocalStack, MiniKube, Android (Kotlin Basics)_
 
 ###
 
@@ -68,7 +65,7 @@
 ### 🌟 Highlight Projects
 
 <ul>
-	<u><h4>Category: Devops 🐳 </h4></u>
+	<u><h4>Category: SysAdmin(Automation) + Devops 🐳 </h4></u>
 	<strong><a href="https://github.com/YogeshT22/project-1-ansible-server">1. Automated Personal Server Setup with Configuration Management (Ansible)</a></strong><br>
 	<br> 
 	<details>
