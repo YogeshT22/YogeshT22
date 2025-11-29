@@ -10,7 +10,7 @@
 ## 🎇 About Me & Focus
 
 * My domain: **Sysadmin** transitioning -> to **DevOps/Cloud(AWS)**
-* I also do **API Development** (well versed in FastAPI)
+* I also do **API Development** (FastAPI)
 
 **Currently focused on:**
 
