@@ -9,7 +9,7 @@
 # 👋 I am Yogesh
 ## 🎇 About Me & Focus
 
-* My domain: **1+YOE** **Sysadmin** transitioning -> to **DevOps/Cloud(AWS)**
+* My domain: **Sysadmin** transitioning -> to **DevOps/Cloud(AWS)**
 * I also do **API Development** (well versed in FastAPI)
 
 **Currently focused on:**
