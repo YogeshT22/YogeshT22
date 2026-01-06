@@ -35,6 +35,9 @@
 - <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD)</a>  
 - <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
 
+<strong>Go Projects</strong>
+- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: A Lightweight Distributed Service Mesh Lite</a>
+
 ---
 
 <h3> Repositories</h3>
