@@ -28,8 +28,8 @@
 <strong>DevOps / SysAdmin</strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
 - <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea)</a>  
-- <a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Multi-Pattern Container Deployment (Docker + LocalStack)</a>  
-- <a href="https://github.com/YogeshT22/local-docker-data-pipeline">Containerized ETL Data Pipeline (PostgreSQL + Python)</a>  
+- <a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Mini project - 1: Multi-Pattern Container Deployment (Docker + LocalStack)</a>  
+- <a href="https://github.com/YogeshT22/local-docker-data-pipeline">Mini project - 2: Containerized ETL Data Pipeline (PostgreSQL + Python)</a>  
 
 <strong>Backend</strong>  
 - <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD)</a>  
