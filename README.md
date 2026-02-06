@@ -1,5 +1,6 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>Sysadmin → Junior Cloud/DevOps</strong> | Automation | Kubernetes | OSS</p>
+<p><strong>Sysadmin → Junior Cloud/DevOps</strong> | Automation | Kubernetes | OSS | FASTAPI | GoLang</p>
+<i>Used Claude agents and Gemini models as development assistants to prototype faster, debug issues, and ship projects quickly.</i>
 
 ---
 
@@ -20,6 +21,7 @@
 - <strong>Sysadmin / DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
 - <strong>Backend:</strong> Python, FastAPI, PostgreSQL, Express.js, JWT, REST APIs  
 - <strong>Frontend:</strong> React, JavaScript, Tailwind
+- <strong>AI Tools</strong>: Claude, Gemini, LLM-assisted coding, prompt engineering, automation workflows
 
 ---
 
