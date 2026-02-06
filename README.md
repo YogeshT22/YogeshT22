@@ -1,5 +1,5 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>Sysadmin → Cloud/DevOps</strong> | Automation | Kubernetes | OSS | Backend (FastAPI), GoLang API developer </p>
+<p><strong>Sysadmin → Junior Cloud/DevOps</strong> | Automation | Kubernetes | OSS</p>
 
 ---
 
@@ -37,6 +37,9 @@
 
 <strong>Go Projects</strong>
 - <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: A Lightweight Distributed Service Mesh Lite</a>
+
+<strong>Frontend/React Projects</strong>
+- <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager</a>
 
 ---
 
