@@ -1,5 +1,5 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>Sysadmin → Junior Cloud/DevOps</strong> | Automation | Kubernetes | OSS</p>
+<p><strong>Sysadmin → Cloud/DevOps</strong> | Automation | Kubernetes | OSS | Backend (FastAPI), GoLang API developer </p>
 
 ---
 
