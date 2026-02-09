@@ -1,5 +1,5 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>Sysadmin → Junior Cloud/DevOps</strong> | Automation | Kubernetes | OSS | FASTAPI | GoLang</p>
+<p><strong>Platform Engineering | Building Distributed Systems with Go & K8s | AI-Augmented DevOps</p>
 <i>Used Claude agents and Gemini models as development assistants to prototype faster, debug issues, and ship projects quickly.</i>
 
 ---
