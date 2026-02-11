@@ -27,19 +27,19 @@
 
 <h3> Projects</h3>
 
-<strong>DevOps / SysAdmin</strong>
-- <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
-- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea + AWS)</a>  
+<strong>DevOps / Platform Engineering </strong>
+- <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible + Tested on AWS)</a>  
+- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea + Tested on AWS)</a>  
 
-<strong>Backend</strong>  
-- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD + AWS)</a>  
-- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe + AWS)</a>  
+<strong>Backend(Python, FastAPI, NodeJS)</strong>  
+- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD + Tested on AWS)</a>  
+- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe + Tested on AWS)</a>  
 
 <strong>Go Projects</strong>
-- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: A Lightweight Distributed Service Mesh Lite</a>
+- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: A Lightweight Distributed Service Mesh Lite (Tested on AWS)</a>
 
 <strong>Frontend/React Projects</strong>
-- <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager</a>
+- <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager (Tested on AWS)</a>
 
 ---
 
