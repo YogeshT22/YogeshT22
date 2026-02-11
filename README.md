@@ -1,6 +1,7 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>Platform Engineering | Building Distributed Systems with Go & K8s | AI-Augmented DevOps</p>
-<i>Used Claude agents and Gemini models as development assistants to prototype faster, debug issues, and ship projects quickly.</i>
+<p><strong>DevOps / Platform Engineer focused on Kubernetes-based infrastructure, CI/CD automation, and distributed systems in Go.</p>
+  
+<p>I do Use LLM tools like Codex, Claude and Gemini to accelerate debugging, generate IaC templates, MCP Integrations, Multi-Agent Swarm, and automate operational tasks. Human-reviewed before production.</p>
 
 ---
 
@@ -21,11 +22,12 @@
 - <strong>Sysadmin / DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
 - <strong>Backend:</strong> Python, FastAPI, PostgreSQL, Express.js, JWT, REST APIs  
 - <strong>Frontend:</strong> React, JavaScript, Tailwind
-- <strong>AI Tools</strong>: Claude, Gemini, LLM-assisted coding, prompt engineering, automation workflows
+- <strong>AI Tools</strong>: Codex, Claude, Gemini, Composio, LLM-assisted coding, prompt engineering, automation workflows.
 
 ---
 
 <h3> Projects</h3>
+<h4><i>Used Claude agents and Gemini frontier models as development assistants to prototype faster, debug issues, and ship projects / Business demands quickly.</i></h4>
 
 <strong>DevOps / Platform Engineering </strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible + Tested on AWS)</a>  
