@@ -29,13 +29,11 @@
 
 <strong>DevOps / SysAdmin</strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
-- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea)</a>  
-- <a href="https://github.com/YogeshT22/Multi-Pattern-Container-Deployment">Multi-Pattern Container Deployment (Docker + LocalStack)</a>  
-- <a href="https://github.com/YogeshT22/local-docker-data-pipeline">Containerized ETL Data Pipeline (PostgreSQL + Python)</a>  
+- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea + AWS)</a>  
 
 <strong>Backend</strong>  
-- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD)</a>  
-- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
+- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD + AWS)</a>  
+- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe + AWS)</a>  
 
 <strong>Go Projects</strong>
 - <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: A Lightweight Distributed Service Mesh Lite</a>
