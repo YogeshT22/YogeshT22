@@ -31,7 +31,7 @@
 
 <strong>DevOps / Platform Engineering </strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible + Tested on AWS)</a>  
-- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Platform (Jenkins + Kubernetes + Gitea + Tested on AWS)</a>  
+- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">End-to-End CI/CD Devops/DevSecOps Secure Platform (Jenkins + Kubernetes + Gitea + Trivy + AWS)</a>  
 
 <strong>Backend(Python, FastAPI, NodeJS)</strong>  
 - <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD + Tested on AWS)</a>  
