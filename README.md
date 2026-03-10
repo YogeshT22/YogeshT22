@@ -38,7 +38,7 @@
 - <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe + Tested on AWS)</a>  
 
 <strong>Go Projects</strong>
-- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Dynamic API Gateway & a custom-built Data Plane (Load Balancer). (Tested on AWS)</a>
+- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer & Service Registry. (Tested on AWS)</a>
 
 <strong>Frontend/React Projects</strong>
 - <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager (Tested on AWS)</a>
