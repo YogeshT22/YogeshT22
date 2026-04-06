@@ -29,19 +29,19 @@
 <h3> Projects</h3>
 <h4><i>Used Claude agents and Gemini frontier models as development assistants to prototype faster, debug issues, and ship projects / Business demands quickly.</i></h4>
 
-<strong>DevOps / Platform Engineering </strong>
-- <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible + Tested on AWS)</a>  
-- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">Production-style DevSecOps Platform with Trivy, SBOM, Cosign + AWS Tested</a>  
+<strong>Infra / DevOps / Platform Engineering </strong>
+- <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
+- <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">Production-style DevSecOps Platform with Trivy, SBOM, Cosign</a>  
 
 <strong>Backend(Python, FastAPI, NodeJS)</strong>  
-- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD + Tested on AWS)</a>  
-- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe + Tested on AWS)</a>  
+- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD</a>  
+- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
 
 <strong>Go Projects</strong>
-- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer & Service Registry. (Tested on AWS)</a>
+- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer & Service Registry.</a>
 
 <strong>Frontend/React Projects</strong>
-- <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager (Tested on AWS)</a>
+- <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager.</a>
 
 ---
 
