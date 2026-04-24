@@ -1,8 +1,5 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>DevOps / Platform Engineer focused on Kubernetes-based infrastructure, CI/CD automation, and distributed systems in Go.</p>
-  
-<p>I do Use LLM tools like Codex, Claude and Gemini to accelerate debugging, generate IaC templates, MCP Integrations, Multi-Agent Swarm, and automate operational tasks. Human-reviewed before production.</p>
-
+<p><strong>DevOps-focused engineer with experience in building and deploying backend services, with interest in distributed systems, AI Agents.</p>
 ---
 
 <h3> Contact</h3>
@@ -19,28 +16,28 @@
 <h3> Skills & Technologies</h3>
 
 - <strong>Cloud:</strong> AWS (EC2, S3, Lambda, EKS, VPC, IAM)  
-- <strong>Sysadmin / DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
+- <strong>DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
 - <strong>Backend:</strong> Python, FastAPI, PostgreSQL, Express.js, JWT, REST APIs  
 - <strong>Frontend:</strong> React, JavaScript, Tailwind
-- <strong>AI Tools</strong>: Codex, Claude, Gemini, Composio, LLM-assisted coding, prompt engineering, automation workflows.
+- <strong>AI Tools</strong>: Codex, Claude, Gemini, Composio, AI - Assisted coding, automation workflows.
 
 ---
 
 <h3> Projects</h3>
-<h4><i>Used Claude agents and Gemini frontier models as development assistants to prototype faster, debug issues, and ship projects / Business demands quickly.</i></h4>
+<h4><i>I use AI models as development assistants to prototype faster, debug issues, and ship projects / Business demands quickly.</i></h4>
 
 <strong>Infra / DevOps / Platform Engineering </strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
 - <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">Production-style DevSecOps Platform with Trivy, SBOM, Cosign, K3s Kubernetes.</a>  
 
-<strong>Backend(Python, FastAPI, NodeJS)</strong>  
+<strong>Backend(Python, FastAPI, NodeJS)-Projects</strong>  
 - <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD</a>  
 - <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
 
-<strong>Go Projects</strong>
+<strong>Go-Projects</strong>
 - <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer & Service Registry.</a>
 
-<strong>Frontend/React Projects</strong>
+<strong>Frontend-Projects</strong>
 - <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager.</a>
 
 ---
