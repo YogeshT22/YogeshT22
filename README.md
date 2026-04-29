@@ -1,5 +1,6 @@
 <h3>Hello, I am Yogesh</h3>
 <p><strong>DevOps-focused engineer with experience in building and deploying backend services, with interest in distributed systems, AI Agents.</p>
+
 ---
 
 <h3> Contact</h3>
@@ -19,12 +20,11 @@
 - <strong>DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
 - <strong>Backend:</strong> Python, FastAPI, PostgreSQL, Express.js, JWT, REST APIs  
 - <strong>Frontend:</strong> React, JavaScript, Tailwind
-- <strong>AI Tools</strong>: Codex, Claude, Gemini, Composio, AI - Assisted coding, automation workflows.
+- <strong>AI/ML</strong>: Agentic Coding, Using Codex, Claude Code, Gemini AI Studio, AI-Assisted coding, AI-Automation workflows.
 
 ---
 
 <h3> Projects</h3>
-<h4><i>I use AI models as development assistants to prototype faster, debug issues, and ship projects / Business demands quickly.</i></h4>
 
 <strong>Infra / DevOps / Platform Engineering </strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
