@@ -31,7 +31,7 @@
 - <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">Production-style DevSecOps Platform with Trivy, SBOM, Cosign, K3s Kubernetes.</a>  
 
 <strong>Backend(Python, FastAPI, NodeJS)-Projects</strong>  
-- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Cloud Task Manager API (FastAPI + PostgreSQL + CI/CD</a>  
+- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Distributed Background Jobs with Celery + RabbitMQ, FastAPI, PostgreSQL + K6 Load-Testing</a>  
 - <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
 
 <strong>Go-Projects</strong>
