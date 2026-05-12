@@ -6,8 +6,7 @@
 <h3> Contact</h3>
 
 - <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yogesht22">linkedin.com/in/yogesht22</a>  
-- <strong>GitHub:</strong> <a href="https://github.com/YogeshT22">github.com/YogeshT22</a>  
-- <strong>Portfolio:</strong> <a href="https://yogesht22.me">yogesht22.me</a>  
+- <strong>GitHub:</strong> <a href="https://github.com/YogeshT22">github.com/YogeshT22</a> 
 - <strong>Email:</strong> <a href="mailto:yogeshoffy@gmail.com">yogeshoffy@gmail.com</a>
 - <strong>Blog:</strong> <a href="https://yogesht22.me/blog">Portfolio's Blog</a>
 - <strong>X/Twitter:</strong> <a href="https://x.com/Ystoff01">x.com/Ystoff01</a>
