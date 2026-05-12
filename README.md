@@ -8,7 +8,6 @@
 - <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yogesht22">linkedin.com/in/yogesht22</a>  
 - <strong>GitHub:</strong> <a href="https://github.com/YogeshT22">github.com/YogeshT22</a> 
 - <strong>Email:</strong> <a href="mailto:yogeshoffy@gmail.com">yogeshoffy@gmail.com</a>
-- <strong>Blog:</strong> <a href="https://yogesht22.me/blog">Portfolio's Blog</a>
 - <strong>X/Twitter:</strong> <a href="https://x.com/Ystoff01">x.com/Ystoff01</a>
 
 ---
@@ -19,7 +18,7 @@
 - <strong>DevOps:</strong> Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Bash, Nginx, CI/CD  
 - <strong>Backend:</strong> Python, FastAPI, PostgreSQL, Express.js, JWT, REST APIs  
 - <strong>Frontend:</strong> React, JavaScript, Tailwind
-- <strong>AI/ML</strong>: Agentic Coding, Using Codex, Claude Code, Gemini AI Studio, AI-Assisted coding, AI-Automation workflows.
+- <strong>AI/ML</strong>: Agentic Coding, Codex, Claude Code, Gemini AI Studio, AI-Assisted coding, AI-Automation workflows.
 
 ---
 
