@@ -1,5 +1,5 @@
 <h3>Hello, I am Yogesh</h3>
-<p><strong>DevOps-focused engineer with experience in building and deploying backend services, with interest in distributed systems, AI Agents.</p>
+<p><strong>I build backend services and work with cloud infrastructure, with a growing interest in distributed systems and AI workflows.</p>
 
 ---
 
