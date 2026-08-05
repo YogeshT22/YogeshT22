@@ -24,23 +24,23 @@
 
 <h3> Projects</h3>
 
-<strong>Infra / DevOps / Platform Engineering </strong>
+<strong>Infra / DevOps / Platform Engineering</strong>
 - <a href="https://github.com/YogeshT22/project-1-ansible-server">Automated Personal Server Setup (Ansible)</a>  
 - <a href="https://github.com/YogeshT22/end-to-end-ci-cd-jenkins-docker">Production-style DevSecOps Platform with Trivy, SBOM, Cosign, K3s Kubernetes.</a>  
 
-<strong>Backend(Python, FastAPI, NodeJS)-Projects</strong>  
-- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Distributed Background Jobs with Celery + RabbitMQ, FastAPI, PostgreSQL + K6 Load-Testing</a>  
-- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe)</a>  
+<strong>Backend (Python, FastAPI, NodeJS)-Projects</strong>  
+- <a href="https://github.com/YogeshT22/cloud-task-manager-api">Distributed Background Jobs with Celery + RabbitMQ, FastAPI, PostgreSQL, K6-Load Testing</a>  
+- <a href="https://github.com/YogeshT22/SaaS_Subscription_App">SaaS Subscription Backend (Node.js + Stripe API)</a>  
 
-<strong>Go-Projects</strong>
-- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer & Service Registry.</a>
+<strong>Go-Projects / Systems Engineering</strong>
+- <a href="https://github.com/YogeshT22/gopherproxy">GopherProxy & Sentinel: Go-based Layer 7 Load Balancer(Reverse-Proxy) & Service Registry.</a>
 
-<strong>Frontend-Projects</strong>
+<strong>Full Stack</strong>
 - <a href="https://github.com/YogeshT22/asset-guardian">Asset Guardian - Home Lab & Infrastructure Inventory Manager.</a>
 
 ---
 
 <h3> Repositories</h3>
 
-See more backend + DevOps work here:  
+See more of my works here:  
 <a href="https://github.com/YogeshT22?tab=repositories">github.com/YogeshT22?tab=repositories</a>
